@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "jsonresume-theme-curzy",
+        "scope": null,
+        "escapedName": "jsonresume-theme-curzy",
+        "name": "jsonresume-theme-curzy",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/fran/Proyectos/cv-fran"
+    ]
+  ],
+  "_from": "jsonresume-theme-curzy@latest",
+  "_id": "jsonresume-theme-curzy@1.0.4",
+  "_inCache": true,
+  "_location": "/jsonresume-theme-curzy",
+  "_nodeVersion": "7.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/jsonresume-theme-curzy-1.0.4.tgz_1487296696645_0.3369204862974584"
+  },
+  "_npmUser": {
+    "name": "curzy",
+    "email": "cms9597@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "jsonresume-theme-curzy",
+    "scope": null,
+    "escapedName": "jsonresume-theme-curzy",
+    "name": "jsonresume-theme-curzy",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/jsonresume-theme-curzy/-/jsonresume-theme-curzy-1.0.4.tgz",
+  "_shasum": "fc3c645954c02e40a0122783273bbf36ed296d45",
+  "_shrinkwrap": null,
+  "_spec": "jsonresume-theme-curzy",
+  "_where": "/home/fran/Proyectos/cv-fran",
+  "author": {
+    "name": "Curzy",
+    "email": "https://github.com/Curzy"
+  },
+  "bugs": {
+    "url": "https://github.com/Curzy/jsonresume-theme-curzy/issues"
+  },
+  "dependencies": {
+    "handlebars": "latest",
+    "moment": "latest"
+  },
+  "description": "Modified JSON Resume theme from Stack Overflow theme",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "fc3c645954c02e40a0122783273bbf36ed296d45",
+    "tarball": "https://registry.npmjs.org/jsonresume-theme-curzy/-/jsonresume-theme-curzy-1.0.4.tgz"
+  },
+  "gitHead": "dae77b60f1d24d2251a4bb3a17bfbc747002d65b",
+  "homepage": "https://github.com/Curzy/jsonresume-theme-curzy#readme",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "curzy",
+      "email": "cms9597@gmail.com"
+    }
+  ],
+  "name": "jsonresume-theme-curzy",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Curzy/jsonresume-theme-curzy.git"
+  },
+  "scripts": {},
+  "version": "1.0.4"
+}

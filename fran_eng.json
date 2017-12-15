@@ -1,0 +1,175 @@
+{
+  "basics": {
+    "name": "Francisco Guerrero",
+    "label": "Experienced python developer and automation enthusiast",
+    "picture": "/home/fran/Proyectos/cv-fran/pp.jpeg",
+    "email": "jsfrncscg@gmail.com",
+    "phone": "424-239-04-23",
+    "summary": "I like to analyze and offer solutions to repetitive tasks. My core competencies lie in backend development although I have ample experience with frontend development. I am responsible, committed to the tasks and I care about testing and documentation with high quality standards.",
+    "location": {
+      "city": "Caracas",
+      "country": "Venezuela"
+    },
+    "profiles": [
+      { 
+        "network": "GitHub",
+        "username": "joseguerrero",
+        "url": "https://github.com/joseguerrero"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "fran-guerrero",
+        "url": "https://www.linkedin.com/in/fran-guerrero/"
+      }
+    ]
+  },
+
+  "work": [
+    {
+      "independent": "Freelance",
+      "startDate": "December 2016",
+      "summary": "I've been working in several projects, most of them related with python/django backend development, continuous integration, VMs and containers provisioning and scripts for specific tasks. Here are some highlights: ",
+      "projects": [
+        "Deploy and provision micro-service web applications on AWS using Ansible",
+        "Module development and provisioning for a dockerized VOIP web application with development, staging and production environments",
+        "Scrapers for small sites, from which they extract data about a given product, then the data is processed and stored on disk or sent to an REST endpoint",
+        "Scripts to automate on-scene arrangement of items, import assets, modify objects, apply textures/materials and render or export the results, all using blender"
+      ]
+    },
+    {
+      "company": "TAC Empresarial",
+      "position": "Backend and devops developer",
+      "startDate": "July 2016",
+      "endDate": "November 2016",
+      "summary": "Short experience in which I set up automated testing and continuous integration systems",
+      "highlights": [
+        "Develop a live demonstration that simulates operator's conections and interactions with a callcenter web application",
+        "Instalation and configuration of a code quality system (Sonarqube), which provides indicators about code coverage and functional tests"
+      ]
+    },
+    {
+      "company": "Centro Nacional de Tecnologias de Información",
+      "website": "http://www.cnti.gob.ve/",
+      "position": "Backend and devops developer",
+      "startDate": "2013",
+      "endDate": "2016",
+      "summary": "Here I started my journey with backend development and django, for about six months I worked on a web app similar to the debian packages index, becoming familiar with the debian ecosystem, policy and guidelines. Over time my interest on platform development grew, given the great potential to reduce time invested on common tasks through integration and automation of many systems.",
+      "highlights": [
+        "The implementation of a continuous integration system to automate software packaging and generation of installable mediums for the distribution Canaima GNU/Linux. This reduced the amount of project configurations, from eight to just one common and static configuration, thus making the maintainer's work a lot easier"
+      ]
+    },
+    {
+      "company": "Fundación Bolivariana de Informática y Telemática",
+      "website":"http://fundabit.gob.ve/",
+      "position": "Backend developer and researcher",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "I worked on I+D and development of educational resources for kids in school age, which goal was to provide full access to the educational content, to children with visual or hearing impairment.",
+      "highlights": [
+        "The integration of a speech synthesis engine to an educational resource, which allowed students with visual impairment to hear all the texts present in it."
+      ]
+    }
+  ],
+
+  "education": [
+      {
+        "studyType": "Course (through Coursera)",
+        "area": "Machine Learning", 
+        "institution": "Stanford university",
+        "url": "https://www.coursera.org/account/accomplishments/records/323RTT7QK8EH",
+        "gpa": "4.82/5.0",
+        "summary": "A broad introduction to machine learning, datamining, and statistical pattern recognition",
+        "startDate": "April 2017",
+        "endDate": "June 2017"
+      },
+      {
+        "studyType": "Degree",
+        "area": "System's engineering",
+        "city": "Caracas",
+        "institution": "Universidad Nacional Experimental Politécnica de la Fuerza Armada Nacional",
+        "gpa": "16.34/20",
+        "summary": "System's analysis, design and implementation",
+        "startDate": "2007",
+        "endDate": "2012"
+      }
+  ],
+
+  "skills": [
+    {
+      "name": "Programming languages",
+      "level": "Advanced",
+      "keywords": [ 
+        "Python", "Javascript", "Bash"
+      ]
+    },
+    {
+      "name": "Web development",
+      "level": "Advanced",
+      "keywords": [ 
+        "Django", "Django Rest Framework", "Tastypie", "Angular"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Medium",
+      "keywords": [ 
+        "MySQL", "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Cloud computing",
+      "level": "Medium",
+      "keywords": [ 
+        "AWS", "EC2", "Docker", "Heroku"
+      ]
+    },
+    {
+      "name": "Web servers",
+      "level": "Medium",
+      "keywords": [ 
+        "Nginx", "Apache", "Gunicorn"
+      ]
+    },
+    {
+      "name": "Devops",
+      "level": "Advanced",
+      "keywords": [ 
+        "Ansible", "Buildbot", "Gitlab CI"
+      ]
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced, written and conversational"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Sembrando para el futuro",
+      "startDate": "2012",
+      "endDate": "2013",
+      "category": "FOSS",
+      "role": "co-creator",
+      "url": "https://github.com/joseguerrero/sembrando",
+      "summary": "Educational resource for kids in school age",
+      "highlights": [
+        "Its goal is to provide full access to the educational content, to children with visual or hearing impairment"
+      ],
+      "description": "Its goal is to provide full access to the educational content, to children with visual or hearing impairment",
+      "keywords": ["python", "pygame", "blender", "sintesis de voz"],
+      "media": [
+        {
+          "category": "video",
+          "url": "https://www.youtube.com/watch?v=_UNyrTzQy3M"
+        }
+      ]
+    }
+  ]
+}

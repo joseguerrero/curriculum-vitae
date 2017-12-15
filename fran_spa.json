@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "Francisco Guerrero",
+    "label": "Desarrollador backend y devops",
+    "picture": "/home/fran/Proyectos/cv-fran/pp.jpeg",
+    "email": "jsfrncscg@gmail.com",
+    "phone": "424-239-04-23",
+    "summary": "Me gusta analizar y ofrecer soluciones para tareas repetitivas. Mi habilidad principal es el desarrollo backend, sin embargo también tengo experiencia en el desarrollo frontend. Soy autodidacta, responsable y comprometido con mi trabajo. Estoy interesado en proyectos novedosos y desafiantes relacionados con automatización, computación en la nube, integración continua, APIs RESTful, diseño e implementación de servicios web, ciencia de datos y aprendizaje automático",
+    "location": {
+      "city": "Caracas",
+      "country": "Venezuela"
+    },
+    "profiles": [
+      { 
+        "network": "GitHub",
+        "username": "joseguerrero",
+        "url": "https://github.com/joseguerrero"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "fran-guerrero",
+        "url": "https://www.linkedin.com/in/fran-guerrero/"
+      }
+    ]
+  },
+
+  "work": [
+    {
+      "independent": "Freelance",
+      "startDate": "Diciembre 2016",
+      "summary": "He participado en una amplia variedad de proyectos; como desarrollo backend, integración continua, aprovisionamiento de servidores y scripts, entre los cuales destacan: ",
+      "projects": [
+        "Despliegue y configuración de aplicación web en AWS, estructurada en microservicios,  utilizando Ansible ",
+        "Desarrollo de modulos y aprovisionamiento para aplicación web de telefonía, utilizando Docker para configurar entornos de desarrollo, calidad y producción ",
+        "Scrapers para pequeños sitios, de los cuales se extraen datos sobre productos, se procesan para almacenarlos en disco o enviarlos a un endpoint de una API RESTful",
+        "Scripts para integración de objetos en escenas de aplicación de diseño 3D (blender), carga de elementos dinámicamente, edición de los objetos en escena, aplicación de texturas/materiales y renderizado o almacenamiento de los resultados"
+      ]
+    },
+    {
+      "company": "TAC Empresarial",
+      "position": "Desarrollador back-end y devops",
+      "startDate": "Julio 2016",
+      "endDate": "Noviembre 2016",
+      "summary": "Fue una experiencia breve en la cual implemente sistemas de pruebas automatizadas y demos de productos",
+      "highlights": [
+        "Desarrollo de un demo que simula conexiones e interacción de operadores en un callcenter con una aplicación web",
+        "Instalación y configuración de un sistema de calidad de codigo (Sonarqube), el cual proveé indicadores de pruebas funcionales y cobertura de código"
+      ]
+    },
+    {
+      "company": "Centro Nacional de Tecnologias de Información",
+      "website": "http://www.cnti.gob.ve/",
+      "position": "Desarrollador back-end e investigador",
+      "startDate": "2013",
+      "endDate": "2016",
+      "summary": "Durante los primeros seis meses trabajé en una aplicación web similar al indice de paquetes de Debian, familiarizandome con el ecosistema de la distribución, su política y lineamientos. Posteriormente me interesé en el desarrollo de plataforma, dado el gran potencial para reducir el tiempo invertido en tareas repetitivas a través de su automatización e integración con otros sistemas.",
+      "highlights": [
+        "Puesta en marcha de un sistema de integración continua para automatizar el empaquetamiento de aplicaciones y la generación de medios instalables para la distribución Canaima GNU/Linux. Con esto se logró reducir la cantidad de configuraciones necesarias para construir imágenes instalables, facilitando notablemente la labor de los mantenedores"
+      ]
+    },
+    {
+      "company": "Fundación Bolivariana de Informática y Telemática",
+      "website":"http://fundabit.gob.ve/",
+      "position": "Desarrollador back-end e investigador",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "Trabajé en el desarrollo e investigación de recursos educativos para niños en educación básica. La meta era proveer herramientas de accesibilidad en los contenidos educativos dirigidos a niños con discapacidad visual y/o auditiva.",
+      "highlights": [
+        "Integración de síntesis de voz en los recursos educativos. Esto permitió a estudiantes con discapacidad visual acceder a los textos presentes en el recurso educativo."
+      ]
+    }
+  ],
+
+  "education": [
+      {
+        "studyType": "Curso (a distancia)",
+        "area": "Aprendizaje automático", 
+        "institution": "Universidad de Stanford",
+        "gpa": "4.82/5.0",
+        "summary": "Una introducción a mineria de datos, aprendizaje automático y reconocimiento de patrones estadísticos",
+        "startDate": "Abril 2017",
+        "endDate": "Mayo 2017"
+      },
+      {
+        "studyType": "Grado",
+        "area": "Ingeniería de sistemas",
+        "city": "Caracas",
+        "institution": "Universidad Nacional Experimental Politécnica de la Fuerza Armada Nacional",
+        "gpa": "16.34/20",
+        "summary": "Analisis, diseño e implementación de sistemas",
+        "startDate": "2007",
+        "endDate": "2012"
+      }
+  ],
+
+  "skills": [
+    {
+      "name": "Lenguajes de programación",
+      "level": "Avanzado",
+      "keywords": [ 
+        "Python", "Javascript", "Bash"
+      ]
+    },
+    {
+      "name": "Desarrollo web",
+      "level": "Avanzado",
+      "keywords": [ 
+        "Django", "Django Rest Framework", "Tastypie", "Angular", "Git"
+      ]
+    },
+    {
+      "name": "Bases de datos",
+      "level": "Intermedio",
+      "keywords": [ 
+        "MySQL", "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Computación en la nube",
+      "level": "Intermedio",
+      "keywords": [ 
+        "AWS", "EC2", "Docker", "Heroku"
+      ]
+    },
+    {
+      "name": "Servidores web",
+      "level": "Intermedio",
+      "keywords": [ 
+        "Nginx", "Apache", "Gunicorn"
+      ]
+    },
+    {
+      "name": "Devops",
+      "level": "Avanzado",
+      "keywords": [ 
+        "Ansible", "Buildbot", "Gitlab CI"
+      ]
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Avanzado conversacional y escrito"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Sembrando para el futuro",
+      "startDate": "2012",
+      "endDate": "2013",
+      "category": "FOSS",
+      "role": "co-creador",
+      "url": "https://github.com/joseguerrero/sembrando",
+      "summary": "Recurso educativo para niños en edad escolar",
+      "highlights": [
+        "Su meta es proveer accesibilidad a contenidos educativos para niños con discapacidad visual o auditiva"
+      ],
+      "description": "Su meta es proveer acceso al contenido educativo para niños con discapacidad visual o auditiva.",
+      "keywords": ["python", "pygame", "blender", "sintesis de voz"],
+      "media": [
+        {
+          "category": "video",
+          "url": "https://www.youtube.com/watch?v=_UNyrTzQy3M"
+        }
+      ]
+    }
+  ]
+}
