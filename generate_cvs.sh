@@ -11,5 +11,5 @@ mkdir -p output
 # Ingles
 for theme in jsonresume-theme-curzy-eng
 do
-    hackmyresume BUILD fran_eng.json to output/fran-eng.pdf -t $theme
+    hackmyresume BUILD fran_eng.json to output/fran-eng.all -t $theme
 done

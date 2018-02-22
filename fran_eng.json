@@ -26,31 +26,41 @@
 
   "work": [
     {
+      "company": "Teravision Technologies",
+      "position": "DevOps Engineer",
+      "startDate": "December 2017",
+      "summary": "As a DevOps Engineer I am responsible of the design and implementation of continuous integration pipelines, resource management on cloud environments, automation of deployment processes using Infrastructure as Code tools",
+      "projects": [
+        "Management of continuous integration pipelines for local and production environments using Jenkins and AWS"
+      ]
+    },
+    {
       "independent": "Freelance",
       "startDate": "December 2016",
-      "summary": "I've been working in several projects, most of them related with python/django backend development, continuous integration, VMs and containers provisioning and scripts for specific tasks. Here are some highlights: ",
+      "endDate": "November 2017",
+      "summary": "I've worked in several projects, most of them related with python/django backend development, continuous integration, VMs and containers provisioning and scripts for specific tasks. Here are some highlights: ",
       "projects": [
-        "Deploy and provision micro-service web applications on AWS using Ansible",
-        "Module development and provisioning for a dockerized VOIP web application with development, staging and production environments",
+        "Deploy and provision web applications on AWS using Ansible",
+        "Backend development and provision for a dockerized VOIP web application with development, staging and production environments",
         "Scrapers for small sites, from which they extract data about a given product, then the data is processed and stored on disk or sent to an REST endpoint",
         "Scripts to automate on-scene arrangement of items, import assets, modify objects, apply textures/materials and render or export the results, all using blender"
       ]
     },
     {
       "company": "TAC Empresarial",
-      "position": "Backend and devops developer",
+      "position": "Backend Engineer",
       "startDate": "July 2016",
       "endDate": "November 2016",
-      "summary": "Short experience in which I set up automated testing and continuous integration systems",
+      "summary": "Short experience in which I set up automated testing and continuous integration environments",
       "highlights": [
-        "Develop a live demonstration that simulates operator's conections and interactions with a callcenter web application",
-        "Instalation and configuration of a code quality system (Sonarqube), which provides indicators about code coverage and functional tests"
+        "Development of a live demonstration that simulates operator's conections and interactions with a callcenter web application",
+        "Installation and configuration of a code quality system (Sonarqube), which provides indicators about code coverage and functional tests"
       ]
     },
     {
       "company": "Centro Nacional de Tecnologias de Información",
       "website": "http://www.cnti.gob.ve/",
-      "position": "Backend and devops developer",
+      "position": "Backend Engineer",
       "startDate": "2013",
       "endDate": "2016",
       "summary": "Here I started my journey with backend development and django, for about six months I worked on a web app similar to the debian packages index, becoming familiar with the debian ecosystem, policy and guidelines. Over time my interest on platform development grew, given the great potential to reduce time invested on common tasks through integration and automation of many systems.",
@@ -61,7 +71,7 @@
     {
       "company": "Fundación Bolivariana de Informática y Telemática",
       "website":"http://fundabit.gob.ve/",
-      "position": "Backend developer and researcher",
+      "position": "Backend Engineer",
       "startDate": "2012",
       "endDate": "2013",
       "summary": "I worked on I+D and development of educational resources for kids in school age, which goal was to provide full access to the educational content, to children with visual or hearing impairment.",
@@ -111,30 +121,30 @@
     },
     {
       "name": "Databases",
-      "level": "Medium",
+      "level": "Intermediate",
       "keywords": [ 
         "MySQL", "PostgreSQL"
       ]
     },
     {
       "name": "Cloud computing",
-      "level": "Medium",
+      "level": "Advanced",
       "keywords": [ 
         "AWS", "EC2", "Docker", "Heroku"
       ]
     },
     {
       "name": "Web servers",
-      "level": "Medium",
+      "level": "Intermediate",
       "keywords": [ 
         "Nginx", "Apache", "Gunicorn"
       ]
     },
     {
-      "name": "Devops",
+      "name": "DevOps",
       "level": "Advanced",
       "keywords": [ 
-        "Ansible", "Buildbot", "Gitlab CI"
+        "Ansible", "Buildbot", "Gitlab CI", "Jenkins"
       ]
     }
   ],
