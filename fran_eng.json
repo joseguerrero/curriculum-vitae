@@ -2,7 +2,7 @@
   "basics": {
     "name": "Francisco Guerrero",
     "label": "Experienced python developer and automation enthusiast",
-    "picture": "/home/fran/Proyectos/curriculum-vitae/pp.jpeg",
+    "picture": "/home/fran/Proyectos/curriculum-vitae/me.jpeg",
     "email": "jsfrncscg@gmail.com",
     "phone": "424-239-04-23",
     "summary": "I like to analyze and offer solutions to repetitive tasks. My core competencies lie in backend development although I have ample experience with frontend development. I am responsible, committed to the tasks and I care about testing and documentation with high quality standards.",
@@ -32,9 +32,11 @@
       "startDate": "December 2017",
       "summary": "As a DevOps Engineer I am responsible of: ",
       "projects": [
-        "Design, implementation, management and monitoring of computing resources on local or cloud environments",
-        "Design, implementation and management of continuous integration pipelines using Jenkins",
-        "Automation of application deployment using tools like Ansible"
+        "Architecture design for medium and high demand applications and systems",
+        "Design, implementation, management and monitoring of computing resources on local environments using Docker",
+        "Design, implementation, management and monitoring of computing resources on production cloud providers like AWS",
+        "Design, implementation, management and monitoring of continuous integration pipelines using Jenkins",
+        "Automation of application deployment/configuration using tools like Ansible"
       ]
     },
     {
