@@ -2,7 +2,7 @@
   "basics": {
     "name": "Francisco Guerrero",
     "label": "Experienced python developer and automation enthusiast",
-    "picture": "/home/fran/Proyectos/cv-fran/pp.jpeg",
+    "picture": "/home/fran/Proyectos/curriculum-vitae/pp.jpeg",
     "email": "jsfrncscg@gmail.com",
     "phone": "424-239-04-23",
     "summary": "I like to analyze and offer solutions to repetitive tasks. My core competencies lie in backend development although I have ample experience with frontend development. I am responsible, committed to the tasks and I care about testing and documentation with high quality standards.",
@@ -27,11 +27,14 @@
   "work": [
     {
       "company": "Teravision Technologies",
+      "website": "https://www.teravisiontech.com/",
       "position": "DevOps Engineer",
       "startDate": "December 2017",
-      "summary": "As a DevOps Engineer I am responsible of the design and implementation of continuous integration pipelines, resource management on cloud environments, automation of deployment processes using Infrastructure as Code tools",
+      "summary": "As a DevOps Engineer I am responsible of: ",
       "projects": [
-        "Management of continuous integration pipelines for local and production environments using Jenkins and AWS"
+        "Design, implementation, management and monitoring of computing resources on local or cloud environments",
+        "Design, implementation and management of continuous integration pipelines using Jenkins",
+        "Automation of application deployment using tools like Ansible"
       ]
     },
     {
