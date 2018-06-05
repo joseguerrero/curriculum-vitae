@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Francisco Guerrero",
-    "label": "Experienced python developer and automation enthusiast",
+    "label": "Experienced Python Developer and DevOps Engineer",
     "picture": "/home/fran/Proyectos/curriculum-vitae/me.jpeg",
     "email": "jsfrncscg@gmail.com",
     "phone": "424-239-04-23",
@@ -32,11 +32,14 @@
       "startDate": "December 2017",
       "summary": "As a DevOps Engineer I am responsible of: ",
       "projects": [
-        "Architecture design for medium and high demand applications and systems",
-        "Design, implementation, management and monitoring of computing resources on local environments using Docker",
-        "Design, implementation, management and monitoring of computing resources on production cloud providers like AWS",
-        "Design, implementation, management and monitoring of continuous integration pipelines using Jenkins",
-        "Automation of application deployment/configuration using tools like Ansible"
+        "Architecture design for small and medium applications",
+        "Setting up CI/CD for testing and production environments with Jenkins",
+        "Automation of build and deployment life cycles on test environments with Docker",
+        "Automated creation and provision of infrastructure in AWS with Terraform and Packer",
+        "Application provision with Ansible",
+        "Manage AWS resources; EC2, VPC, S3, RDS, ElasticSearch",
+        "Implement Jenkins declarative and multibranch pipelines",
+        "Deploying python, php and nodejs applications to production environments"
       ]
     },
     {
@@ -46,7 +49,7 @@
       "summary": "I've worked in several projects, most of them related with python/django backend development, continuous integration, VMs and containers provisioning and scripts for specific tasks. Here are some highlights: ",
       "projects": [
         "Deploy and provision web applications on AWS using Ansible",
-        "Backend development and provision for a dockerized VOIP web application with development, staging and production environments",
+        "Backend development for a VoIP device provisioning web application in Django",
         "Scrapers for small sites, from which they extract data about a given product, then the data is processed and stored on disk or sent to an REST endpoint",
         "Scripts to automate on-scene arrangement of items, import assets, modify objects, apply textures/materials and render or export the results, all using blender"
       ]
@@ -99,7 +102,7 @@
       },
       {
         "studyType": "Degree",
-        "area": "System's engineering",
+        "area": "System's Engineer",
         "city": "Caracas",
         "institution": "Universidad Nacional Experimental Politécnica de la Fuerza Armada Nacional",
         "gpa": "16.34/20",
@@ -132,10 +135,10 @@
       ]
     },
     {
-      "name": "Cloud computing",
-      "level": "Advanced",
+      "name": "Amazon Web Services",
+      "level": "Intermediate",
       "keywords": [ 
-        "AWS", "EC2", "Docker", "Heroku"
+        "EC2", "S3", "RDS", "ElasticSearch", "Elasticache"
       ]
     },
     {
@@ -149,7 +152,7 @@
       "name": "DevOps",
       "level": "Advanced",
       "keywords": [ 
-        "Ansible", "Buildbot", "Gitlab CI", "Jenkins"
+        "Ansible", "Buildbot", "Gitlab CI", "Jenkins", "Docker", "Terraform", "Packer"
       ]
     }
   ],
